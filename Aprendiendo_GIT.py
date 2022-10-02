@@ -1,8 +1,8 @@
 # esto es un archivo para probar cosas de GIT
 
 print("Hola mundo")
-print("/n , cómo andan?")
+print(", cómo andan?")
 
-"emmet.includeLanguages": {
-        "django-html": "html"
-    },
+# "emmet.includeLanguages": {
+#         "django-html": "html"
+#     }
